@@ -2,7 +2,7 @@
 FROM tensorflow/tensorflow:2.0.0-py3
 
 # Maintainer info
-LABEL maintainer="blahbah@something.com"
+LABEL maintainer="tanayz@outlook.com"
 
 # Make working directories
 RUN  mkdir -p /home/project-api
